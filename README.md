@@ -21,9 +21,9 @@ NumPy
 
 OS file operations
 
-'''@article{qi2017pointnet,
+```@article{qi2017pointnet,
   title={Pointnet: Deep learning on point sets for 3d classification and segmentation},
   author={Qi, Charles R and Su, Hao and Mo, Kaichun and Guibas, Leonidas J},
   journal={Proc. Computer Vision and Pattern Recognition (CVPR), IEEE},
   year={2017}
-}'''
+}```
