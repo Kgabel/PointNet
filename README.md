@@ -13,8 +13,8 @@ PointNetFull - Implements a T-Net to learn input transforms
 IoU - Computes per-class and mean IoU for evaluation
 KITTI dataset loading and preprocessing
 
-##Getting Started
-##Dependencies
+## Getting Started
+## Dependencies
 PyTorch
 NumPy
 OS file operations
